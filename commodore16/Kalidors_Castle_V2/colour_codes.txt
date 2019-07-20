@@ -1,0 +1,8 @@
+spikes, bad guy - red 3,3
+wall   - white 
+water - blue 7,4
+door  - yellow 8,6
+emerald - green 16,3
+door_key - - pink 12,5
+
+
